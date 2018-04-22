@@ -1,6 +1,7 @@
 function bigCode()
 {
  console.log('writing lot of code');
+ console.log('Insert new feature');
 }
 function something()
 {
